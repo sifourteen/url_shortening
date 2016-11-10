@@ -1,3 +1,30 @@
+Task: Write a URL shortener
+
+
+The service should take a long url, and output a shortened version of that url. When the user navigates to the shortened version of the url it should redirect them to the long url.
+
+
+See: https://bitly.com/
+
+
+There is no need to include a front-end interface for your service. Only API endpoints are required.
+
+
+Requirements:
+
+
+Use Python.
+
+
+Use Git with http://github.com for source control.
+
+
+Document the entire project to the best of your ability with code comments, commit messages, and endpoint documentation.
+
+
+Use MySQL as your database.
+
+
 # url_shortening
 
 ## Intro
